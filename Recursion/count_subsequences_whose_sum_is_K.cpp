@@ -6,7 +6,11 @@ int printS(int index, int s, int sum, int arr[], int n)
 {
     //condition not satisfied
     //strictly done if array contains positives only
-    if(s>sum) return 0;
+    if(s > sum) return 0;          //slight optimization
+
+
+
+    // if(s == sum) return 0;
     if (index == n)
     {
         //condition satisfied

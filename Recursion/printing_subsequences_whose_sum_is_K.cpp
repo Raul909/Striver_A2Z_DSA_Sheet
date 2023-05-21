@@ -1,8 +1,7 @@
-/*
 
-Printing subsequences whose sum is K.
 
-*/
+//Printing subsequences whose sum is K.
+
 
 #include <bits/stdc++.h>
 
@@ -20,8 +19,7 @@ void printS(int index, vector<int> &ds, int s, int sum, int arr[], int n)
 
             cout << "\n";
         }
-            return;
-        
+        return;
     }
 
     // take condition
@@ -47,10 +45,11 @@ int main()
     return 0;
 }
 
-/* Printing only one answer (one subsequence)
 
-*/
 
+
+
+// Printing only one answer (one subsequence) without using any global variables
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -59,7 +58,7 @@ bool printS(int index, vector<int> &ds, int s, int sum, int arr[], int n)
 {
     if (index == n)
     {
-        //condition satisfied
+        // condition satisfied
         if (s == sum)
         {
 
@@ -70,27 +69,27 @@ bool printS(int index, vector<int> &ds, int s, int sum, int arr[], int n)
 
             return true;
         }
-        //condition not satisfied
+        // condition not satisfied
         else
             return false;
-        
     }
 
     // take condition
     ds.push_back(arr[index]);
     s += arr[index];
-    if(printS(index + 1, ds, s, sum, arr, n) == true)
+    if (printS(index + 1, ds, s, sum, arr, n) == true)
     {
         return true;
     }
-    s -= arr[index]; 
+    s -= arr[index];
     ds.pop_back();
 
     // not pick condition
 
-    if(printS(index + 1, ds, s, sum, arr, n) == true) return true;
+    if (printS(index + 1, ds, s, sum, arr, n) == true)
+        return true;
 
-     return false;
+    return false;
 }
 int main()
 {
