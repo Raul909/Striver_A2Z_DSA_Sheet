@@ -18,3 +18,18 @@ This basically contains the notes and the codes that I have made for myself.
 -[Print all Divisors](Basic_Maths/print_all_divisors.cpp)
 
 -[Check for Prime](Basic_Maths/check_for_prime.cpp)
+
+
+### Recursion
+
+-[Introduction](Recursion/intro.cpp)
+
+-[Parameterised and Functional Recursion](Recursion/parameterised_and_functional_recursion.cpp)
+
+-[Recursion on Subsequences](Recursion/recursion_on_subsequences.cpp)
+
+-[All Kinds of Patterns in Recursion](Recursion/printing_subsequences_whose_sum_is_K.cpp)
+
+-[](Recursion/.cpp)
+
+
