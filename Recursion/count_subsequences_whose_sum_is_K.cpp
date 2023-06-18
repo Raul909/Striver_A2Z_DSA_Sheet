@@ -1,3 +1,22 @@
+//the simple rule to count remember this
+int f()
+{
+    return 1; // if the condition is satisfied
+    return 0; // if the condition is not satisfied
+
+    l = f();
+    r = f();
+    
+    return l + r; 
+}
+
+
+
+
+
+
+
+
 #include <bits/stdc++.h>
 
 using namespace std;

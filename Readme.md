@@ -20,6 +20,24 @@ This basically contains the notes and the codes that I have made for myself.
 -[Check for Prime](Basic_Maths/check_for_prime.cpp)
 
 
+### Basic Recursion
+
+-[]()
+
+
+### Sorting
+
+-[Bubble Sort]()
+
+-[Selection Sort]()
+
+-[Insertion Sort]()
+
+-[Merge Sort](Sorting/merge_sort.cpp)
+
+-[Quick Sort]()
+
+
 ### Recursion
 
 -[Introduction](Recursion/intro.cpp)
