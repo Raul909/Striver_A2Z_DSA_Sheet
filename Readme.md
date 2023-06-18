@@ -1,7 +1,10 @@
 # Striver's A2Z DSA Sheet 
 
 This basically contains the notes and the codes that I have made for myself.
+You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/).
 
+
+## Learn the Basics
 
 ### Basic Maths
 
@@ -24,18 +27,19 @@ This basically contains the notes and the codes that I have made for myself.
 
 - []()
 
+## Learn Important Sorting Techniques
 
-## Sorting
+### Sorting I
+- [Bubble Sort](Learn%20Important%20Sorting%20Techniques/Sorting%20I/bubble_sort.cpp)
 
-- [Bubble Sort]()
+- [Selection Sort](Learn%20Important%20Sorting%20Techniques/Sorting%20I/selection_sort.cpp)
 
-- [Selection Sort]()
+- [Insertion Sort](Learn%20Important%20Sorting%20Techniques/Sorting%20I/insertion_sort.cpp)
+- 
+### Sorting II
+- [Merge Sort](Learn%20Important%20Sorting%20Techniques/Sorting%20II/merge_sort.cpp)
 
-- [Insertion Sort]()
-
-- [Merge Sort](Sorting/merge_sort.cpp)
-
-- [Quick Sort]()
+- [Quick Sort](Learn%20Important%20Sorting%20Techniques/Sorting%20II/quick_sort.cpp)
 
 
 
@@ -53,6 +57,8 @@ This basically contains the notes and the codes that I have made for myself.
 - [Parameterised and Functional Recursion](Recursion/Introduction%20and%20Subsequence%20Patterns/parameterised_and_functional_recursion.cpp)
 
 - [Recursion on Subsequences](Recursion/Introduction%20and%20Subsequence%20Patterns/recursion_on_subsequences.cpp)
+
+- [Subset Sum Equal to K](Recursion/Introduction%20and%20Subsequence%20Patterns/return_subset_sum_equal_to_k.cpp)
 
 - [All Kinds of Patterns in Recursion](Recursion/Introduction%20and%20Subsequence%20Patterns/printing_subsequences_whose_sum_is_K.cpp)
 
