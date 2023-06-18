@@ -25,7 +25,7 @@ This basically contains the notes and the codes that I have made for myself.
 - []()
 
 
-### Sorting
+## Sorting
 
 - [Bubble Sort]()
 
@@ -38,25 +38,31 @@ This basically contains the notes and the codes that I have made for myself.
 - [Quick Sort]()
 
 
-### Recursion
+## Recursion
 
-- [Introduction](Recursion/Introduction and Subsequence Patterns/intro.cpp)
+### Get a Strong Hold
 
-- [Parameterised and Functional Recursion](Recursion/Introduction and Subsequence Patterns/parameterised_and_functional_recursion.cpp)
+- [Pow(x,n)](Recursion/Get%20a%20Strong%20Hold/pow(x%2Cn).cpp)
 
-- [Recursion on Subsequences](Recursion/Introduction and Subsequence Patterns/recursion_on_subsequences.cpp)
+### Introduction and Subsequence Patterns
 
-- [All Kinds of Patterns in Recursion](Recursion/Introduction and Subsequence Patterns/printing_subsequences_whose_sum_is_K.cpp)
+- [Introduction](Recursion/Introduction%20and%20Subsequence%20Patterns/intro.cpp)
 
-- [Print all the Permutations of an Array](Recursion/Introduction and Subsequence Patterns/print_all_permutation_of_an_array.cpp)
+- [Parameterised and Functional Recursion](Recursion/Introduction%20and%20Subsequence%20Patterns/parameterised_and_functional_recursion.cpp)
 
-- [Subset Sum](Recursion/Introduction and Subsequence Patterns/subset_sum.cpp)
+- [Recursion on Subsequences](Recursion/Introduction%20and%20Subsequence%20Patterns/recursion_on_subsequences.cpp)
 
-- [Subset II](RecursionIntroduction and Subsequence Patterns/unique_subsets.cpp)
+- [All Kinds of Patterns in Recursion](Recursion/Introduction%20and%20Subsequence%20Patterns/printing_subsequences_whose_sum_is_K.cpp)
 
-- [Combination Sum ](Recursion/Introduction and Subsequence Patterns/combination_sum.cpp)
+- [Print all the Permutations of an Array](Recursion/Introduction%20and%20Subsequence%20Patterns/print_all_permutation_of_an_array.cpp)
 
-- [Combination Sum II](Recursion/Introduction and Subsequence Patterns/combination_sum_II.cpp)
+- [Subset Sum](Recursion/Introduction%20and%20Subsequence%20Patterns/subset_sum.cpp)
 
-- [Combination Sum III](RecursionIntroduction and Subsequence Patterns/combination_sum_III.cpp)
+- [Subset II](Recursion/Introduction%20and%20Subsequence%20Patterns/unique_subsets.cpp)
+
+- [Combination Sum ](Recursion/Introduction%20and%20Subsequence%20Patternscombination_sum.cpp)
+
+- [Combination Sum II](Recursion/Introduction%20and%20Subsequence%20Patterns/combination_sum_II.cpp)
+
+- [Combination Sum III](Recursion/Introduction%20and%20Subsequence%20Patterns/combination_sum_III.cpp)
 
