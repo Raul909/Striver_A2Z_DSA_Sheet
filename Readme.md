@@ -38,6 +38,8 @@ This basically contains the notes and the codes that I have made for myself.
 - [Quick Sort]()
 
 
+
+
 ## Recursion
 
 ### Get a Strong Hold
@@ -66,3 +68,6 @@ This basically contains the notes and the codes that I have made for myself.
 
 - [Combination Sum III](Recursion/Introduction%20and%20Subsequence%20Patterns/combination_sum_III.cpp)
 
+### Trying out all Combos / Hard
+
+- [N Queens](Recursion/Trying%20out%20all%20Combos%20%20Hard/n_queens.cpp)
