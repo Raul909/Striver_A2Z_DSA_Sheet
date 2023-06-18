@@ -63,7 +63,7 @@ int main()
 
     int arrSize = sizeof(arr) / sizeof(arr[0]);
 
-    reverse(0, arrSize-1, arr);
+    reverse(0, arrSize - 1, arr);
     for (int i = 0; i < arrSize; i++)
         cout << arr[i] << " ";
 
@@ -72,14 +72,14 @@ int main()
 
 // //Can we reverse the array by taking only one pointer
 
-void reverse(int index, int arr[],int n)       //using a single pointer index
+void reverse(int index, int arr[], int n) // using a single pointer index
 {
-    if (index>=n/2)
+    if (index >= n / 2)
         return;
 
-    swap(arr[index], arr[n-index-1]);
+    swap(arr[index], arr[n - index - 1]);
 
-    reverse(index+1, arr,n);
+    reverse(index + 1, arr, n);
 }
 
 int main()

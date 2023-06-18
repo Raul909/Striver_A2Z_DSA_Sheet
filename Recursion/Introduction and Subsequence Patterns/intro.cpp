@@ -90,45 +90,38 @@ int main()
     return 0;
 }
 
-
-
-
 // Print from N to 1
 
-void printN_to_1(int i, int n)    // parameterised recursion
+void printN_to_1(int i, int n) // parameterised recursion
 {
     if (i <= 0)
     {
         return;
     }
 
-    cout<< i <<"\n";
-    printN_to_1(i-1,n);
+    cout << i << "\n";
+    printN_to_1(i - 1, n);
 }
 
 int main()
 {
-    printN_to_1(3,3); // prints 3 to 1
+    printN_to_1(3, 3); // prints 3 to 1
     return 0;
 }
 
-
-
-
-void printN_to_1(int i,int n)    //backtracking recursion
+void printN_to_1(int i, int n) // backtracking recursion
 {
     if (i > n)
     {
         return;
     }
 
-    printN_to_1(i+1,n);
-     cout<< i <<"\n";
+    printN_to_1(i + 1, n);
+    cout << i << "\n";
 }
 
 int main()
 {
-    printN_to_1(1,3); // prints 3 to 1
+    printN_to_1(1, 3); // prints 3 to 1
     return 0;
 }
-
