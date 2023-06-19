@@ -1,8 +1,9 @@
 # Striver's A2Z DSA Sheet 
-
+--------------------------
 This basically contains the notes and the codes that I have made for myself.
 You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/).
 
+---------------------------------------------------------------------------------------------------------------
 
 ## Learn the Basics
 
@@ -22,6 +23,7 @@ You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.
 
 - [Check for Prime](Basic_Maths/check_for_prime.cpp)
 
+---------------------
 
 ### Basic Recursion
 
@@ -42,7 +44,7 @@ You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.
 - [Quick Sort](Learn%20Important%20Sorting%20Techniques/Sorting%20II/quick_sort.cpp)
 
 
-
+-----------------------
 
 ## Recursion
 
@@ -57,6 +59,8 @@ You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.
 - [Parameterised and Functional Recursion](Recursion/Introduction%20and%20Subsequence%20Patterns/parameterised_and_functional_recursion.cpp)
 
 - [Recursion on Subsequences](Recursion/Introduction%20and%20Subsequence%20Patterns/recursion_on_subsequences.cpp)
+
+- [Generate Paranthesis](Recursion/Introduction%20and%20Subsequence%20Patterns/generate_parantheses.cpp)
 
 - [Subset Sum Equal to K](Recursion/Introduction%20and%20Subsequence%20Patterns/return_subset_sum_equal_to_k.cpp)
 
@@ -73,6 +77,8 @@ You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.
 - [Combination Sum II](Recursion/Introduction%20and%20Subsequence%20Patterns/combination_sum_II.cpp)
 
 - [Combination Sum III](Recursion/Introduction%20and%20Subsequence%20Patterns/combination_sum_III.cpp)
+
+- [Letter Combination of a Phone Number](Recursion/Introduction%20and%20Subsequence%20Patterns/letter_combinations_of_phone_number.cpp)
 
 ### Trying out all Combos / Hard
 
