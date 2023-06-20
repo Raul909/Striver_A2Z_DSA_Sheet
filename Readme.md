@@ -83,3 +83,7 @@ You can solve the Striver's A2Z DSA Sheet from this [link](https://takeuforward.
 ### Trying out all Combos / Hard
 
 - [N Queens](Recursion/Trying%20out%20all%20Combos%20%20Hard/n_queens.cpp)
+
+- [Palindrome Partitioning](Recursion/Trying%20out%20all%20Combos%20%20Hard/palindrome_partitioning.cpp)
+
+- [Rat in a Maze](Recursion/Trying%20out%20all%20Combos%20%20Hard/rat_in_maze.cpp)
